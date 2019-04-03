@@ -1,6 +1,6 @@
-# HackCamp React
+# Bootcamp React
 
-## HackJam 1: Introduction to React
+## Bootcamp 1: Introduction to React
 
 ### Topics covered
 * Tooling and setup (yarn, npm, node)
@@ -13,13 +13,13 @@
 ### Getting started
 
 Congratulations!
-Today is your first day at Hackages and you have been assigned to work on their brand new product; **HackFlix**.
+Today is your first day at Capgemini and you have been assigned to work on their brand new product; **HackFlix**.
 Steve, the junior developer who usually works on the project has left on holidays for a few days so you will have to pick up where he left off.
 He wrote some notes for you before leaving with a list of tasks.
 
 First off, you will need to clone the project:
 ```bash
-git clone https://github.com/hackages/hackcamp-react.git
+git clone https://github.com/J4nnick/DCX-react-bootcamp-1.git
 cd hackcamp.react
 yarn
 yarn start
